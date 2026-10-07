@@ -1,0 +1,30 @@
+{
+  "credits_before": 14.48,
+  "credits_after": 8.48,
+  "images": [
+    {
+      "file": "price.png",
+      "model": "gpt_image_2",
+      "prompt": "Ultra-dark cinematic still life, a row of black men's grooming bottles on a black surface, small white paper price tags hanging from them, one tag struck through, single hard side light, deep black shadows, desaturated, no readable text, no logos, no watermark, 16:9.",
+      "job_id": "f1d244c1-c204-4b44-9c52-e655812fe756",
+      "size": "2688x1520",
+      "credits": 2
+    },
+    {
+      "file": "message.png",
+      "model": "gpt_image_2",
+      "prompt": "Documentary-style photo, Indian man in his thirties in a dim room looking at a smartphone, the screen's glow on his face, shopping app blur on the screen, deep black background, desaturated, no readable text, no logos, 16:9.",
+      "job_id": "1542d2b1-a634-4fff-950b-d4d9e964caaa",
+      "size": "2688x1520",
+      "credits": 2
+    },
+    {
+      "file": "pack.png",
+      "model": "gpt_image_2",
+      "prompt": "Ultra-dark product photograph, a shelf of near-identical black grooming boxes and one plain white box standing out, hard side light, deep black shadows, desaturated, no text, no logos, no watermark, 16:9.",
+      "job_id": "712bea9d-62db-43e1-99c7-810205cd24fc",
+      "size": "2688x1520",
+      "credits": 2
+    }
+  ]
+}

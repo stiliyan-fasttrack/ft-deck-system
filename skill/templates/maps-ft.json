@@ -1,0 +1,1493 @@
+{
+ "meta": {
+  "title": "Price, message, pack — what works",
+  "author": "Fast Track",
+  "date": "OCTOBER 2026",
+  "out": "out/maps-ft.pptx",
+  "tag": "THE MAN COMPANY — PRICE, MESSAGE, PACK — COMPANION TO CHAPTER A — CONFIDENTIAL"
+ },
+ "slides": [
+  {
+   "type": "cover",
+   "date": "OCTOBER 2026",
+   "title": [
+    "Price, message, pack",
+    "*what works*"
+   ],
+   "image": "assets/brand/cover-brutal-honesty.jpg",
+   "dim": 50,
+   "notes": "Companion to Chapter A. Currency: US dollars at Rs 85 per dollar; shelf prices in rupees. Labels: (F) published source, (I) TMC books or earlier Fast Track work, (E) Fast Track estimate, (H) hypothesis to test. Basis: 107 prices read 3 October 2026 from brand sites, Nykaa Man and BigBasket; Amazon not read.",
+   "title_ok": true
+  },
+  {
+   "type": "statement",
+   "section": "The answer first",
+   "title": [
+    "Winners charge a *real price*,",
+    "say *one checkable thing*,",
+    "let the *pack prove it*"
+   ],
+   "size": 88,
+   "y": 1.1,
+   "title_ok": true
+  },
+  {
+   "type": "statement",
+   "title": [
+    "TMC does",
+    "*none of the three*",
+    "yet"
+   ],
+   "size": 128,
+   "y": 0.9,
+   "title_ok": true,
+   "notes": "The deck's one sentence: winners charge a real price, say one checkable thing, and let the pack prove it. TMC does none of the three yet."
+  },
+  {
+   "type": "stat-list",
+   "title": "The answer first",
+   "size": 48,
+   "valueW": 3.2,
+   "labelSize": 22,
+   "rows": [
+    {
+     "value": "PRICE",
+     "label": "Winners hold one price. TMC's Black shows two list prices and sells from Rs 180 to Rs 740 (I)."
+    },
+    {
+     "value": "MESSAGE",
+     "label": "Winners name a number, a percentage or a guarantee. TMC is one of five persona brands, and its page opens with the discount."
+    },
+    {
+     "value": "PACK",
+     "label": "Winning packs prove the claim or break the black shelf. Rivals offer a trial at Rs 59 to 149. No TMC mini was found."
+    },
+    {
+     "value": "SALES",
+     "label": "Price level does not explain who sells more. Brand power shows in how little a brand discounts, not in how high it lists."
+    }
+   ],
+   "notes": "Price level does not explain who sells more. Brand power shows in how little a brand discounts, not in how high it lists. Source: 107 prices read 3 October 2026; brand pages; trade press (F, through a page reader). Each price and quote needs one manual check before it goes on a slide — in particular whether BigBasket's Rs 180 / Rs 899 item is the same 100 ml Black.",
+   "title_ok": true
+  },
+  {
+   "type": "chapter",
+   "section": "1 · Price map",
+   "title": [
+    "1",
+    "*Price map*"
+   ],
+   "size": 138,
+   "image": "assets/brand/price-target.jpg",
+   "dim": 45,
+   "sub": "TMC'S PRICE PROBLEM IS COHERENCE, NOT LEVEL"
+  },
+  {
+   "type": "hero-number",
+   "value": "80%",
+   "pictograms": false,
+   "label": "off list on TMC Black. Six rivals sell within 0 to 19% of list.",
+   "title_ok": true,
+   "source": "RS 499 AGAINST RS 2,499 ON THE OWN SITE; RS 180 AGAINST RS 899 ON BIGBASKET (F)",
+   "notes": "Rs 499 against Rs 2,499 on the own site; Rs 180 against Rs 899 on BigBasket (F). The six near list: Reginald 0%, Bombay Shaving 0%, Minimalist 10%, Muuchstac 10 to 17%, Fogg 15%, Gillette 19%."
+  },
+  {
+   "type": "bar",
+   "title": "Perfume is one band; *TMC's Rs 499* sits inside it after an 80% cut",
+   "dir": "bar",
+   "categories": [
+    "Titan Skinn (50 ml)",
+    "Ajmal",
+    "Villain",
+    "Bombay Shaving Co.",
+    "Beardo Godfather",
+    "Engage",
+    "Wild Stone CODE",
+    "Ustraa",
+    "Fogg",
+    "TMC Black (own site)",
+    "Park Avenue",
+    "Bella Vita",
+    "Denver"
+   ],
+   "values": [
+    1716,
+    1200,
+    799,
+    795,
+    699,
+    659,
+    649,
+    584,
+    552,
+    499,
+    487,
+    449,
+    412
+   ],
+   "highlight": [
+    9
+   ],
+   "formatCode": "\"Rs \"#,##0",
+   "valueSize": 22,
+   "catSize": 14,
+   "gap": 35,
+   "max": 2100,
+   "notes": "100 ml selling prices, brand sites / Nykaa Man / BigBasket, 3 October 2026 (F). Premium: Titan Skinn, Ajmal. Core band Rs 449 to 799 ($5.3 to 9.4). Mass floor Rs 412 to 487. Discounts: Beardo 42% off list, CODE 50%, Bella Vita 50% (largest seller), TMC Black 80% off a Rs 2,499 list."
+  },
+  {
+   "type": "stat-list",
+   "title": "Fogg and Beardo differ in story, not price; *TMC's story is the discount*",
+   "size": 60,
+   "valueW": 3.6,
+   "labelSize": 28,
+   "rows": [
+    {
+     "value": "Rs 412-487",
+     "label": "Mass floor",
+     "sub": "Denver, Park Avenue ($4.8 to 5.7)"
+    },
+    {
+     "value": "Rs 449-799",
+     "label": "Core band: new brands and mass brands overlap",
+     "sub": "Bella Vita, Fogg, Ustraa, CODE, Engage, Beardo, Bombay Shaving, Villain ($5.3 to 9.4)"
+    },
+    {
+     "value": "Rs 1,200+",
+     "label": "Premium",
+     "sub": "Ajmal; Titan Skinn Rs 1,716 for 50 ml ($14+)"
+    }
+   ],
+   "notes": "No price gap between Fogg and Beardo to speak of (Rs 4 to 8 per ml); the gap is in the story."
+  },
+  {
+   "type": "table",
+   "title": "Every category is *a narrow band*; TMC sits mid-pack in all",
+   "columns": [
+    "Mass floor",
+    "Core band",
+    "Premium",
+    "TMC"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 22,
+   "totalColumn": true,
+   "rows": [
+    [
+     "Perfume, 100 ml",
+     "Rs 412-487",
+     "Rs 449-799",
+     "Rs 1,200+",
+     "Rs 499"
+    ],
+    [
+     "Deodorant, 150 ml",
+     "Rs 135",
+     "Rs 172-255",
+     "Rs 299-355",
+     "Rs 209"
+    ],
+    [
+     "Face wash, 100 g",
+     "Rs 166-184",
+     "Rs 219-269",
+     "Rs 299",
+     "Rs 219"
+    ],
+    [
+     "Sunscreen, 50 g",
+     "Rs 162",
+     "Rs 335-425",
+     "Rs 850",
+     "Rs 335-599"
+    ],
+    [
+     "Beard oil, per ml",
+     "none",
+     "Rs 10-11.5",
+     "Rs 15",
+     "Rs 9.9"
+    ]
+   ],
+   "notes": "Deodorant core: Denver, Engage, Wild Stone, Nivea, TMC, Fogg, Ustraa; premium Beardo, Bombay Shaving; floor Axe at half price. Face wash core: Nivea, TMC, Emami, Bombay Shaving, Pond's, Derma Co, Muuchstac, Minimalist; floor Himalaya, Garnier; premium Beardo. Sunscreen core: TMC, Bombay Shaving, Minimalist, Beardo, Derma Co; premium Reginald Men Rs 850 no discount; floor Pond's Men. Beard oil: all five brands Rs 10 to 11.5 per ml; Man Matters serum Rs 15. Source (F), 3 October 2026. Dollar values at Rs 85: perfume core $5.3 to 9.4, floor $4.8 to 5.7, premium $14+; deodorant core $2.0 to 3.0, premium $3.5 to 4.2, Axe $1.6; face wash core $2.6 to 3.2, floor $2.0 to 2.2, Beardo $3.5; sunscreen core $3.9 to 5.0, Reginald $10, Pond's Men $1.9; beard oil 30 to 50 ml, Rs 15 per ml for the Man Matters serum.",
+   "source": "BRAND SITES, NYKAA MAN, BIGBASKET, READ 3 OCTOBER 2026 (F); $ AT RS 85"
+  },
+  {
+   "type": "table",
+   "title": "A premium needs a result or a system; *TMC sells none*",
+   "columns": [
+    "Mass floor",
+    "Core band",
+    "Premium",
+    "TMC"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 22,
+   "totalColumn": true,
+   "rows": [
+    [
+     "Shampoo, per ml",
+     "Rs 1.2",
+     "Rs 1.3-1.5",
+     "Rs 2.7",
+     "Rs 1.4"
+    ],
+    [
+     "Styling wax, 100 g",
+     "Rs 100",
+     "Rs 299-449",
+     "none",
+     "Rs 299"
+    ],
+    [
+     "Razor cartridge, each",
+     "Rs 13",
+     "Rs 125-175",
+     "Rs 273-375",
+     "not present"
+    ],
+    [
+     "Trimmer",
+     "Rs 549",
+     "Rs 669-1,182",
+     "Rs 2,899",
+     "not present"
+    ],
+    [
+     "Gift kit",
+     "Rs 499",
+     "Rs 599-999",
+     "Rs 1,399-1,530",
+     "Rs 499-1,399"
+    ]
+   ],
+   "notes": "Shampoo: Head and Shoulders floor; Ustraa, TMC, Beardo core; Man Matters and Traya Rs 2.7 per ml with plans at Rs 1,198 to 2,000 a month. Wax: Set Wet gel floor. Cartridges: Gillette Guard Rs 13; Bombay Shaving, Mach3, LetsShave core; Gillette Fusion premium. Trimmer: Bombay Shaving Rs 549; Philips, Beardo, Havells core; Ustraa Chrome Rs 2,899. Gift kit: four 20 ml perfumes at Rs 499 from TMC, Bella Vita, Bombay Shaving. Dollar values at Rs 85: hair-loss plans $14 to 24 a month; styling wax core $3.5 to 5.3, Set Wet $1.2; cartridges core $1.5 to 2.1, Fusion $3.2 to 4.4, Guard $0.15; trimmer Bombay Shaving $6.5, core $7.9 to 13.9, Ustraa Chrome $34; gift kit $5.9, core $7 to 11.8, premium $16 to 18. Shampoo packs 200 to 250 ml.",
+   "source": "BRAND SITES, NYKAA MAN, BIGBASKET, READ 3 OCTOBER 2026 (F); $ AT RS 85"
+  },
+  {
+   "type": "stat-list",
+   "title": "Price room is *narrow*: a premium exists in three places",
+   "rows": [
+    {
+     "value": "Rs 4–8",
+     "label": "Perfume is one band: new brands and mass brands overlap at Rs 4 to 8 per ml",
+     "sub": "New brands and mass brands overlap at Rs 4 to 8 per ml. There is no price gap between Fogg and Beardo to speak of; the gap is in the story."
+    },
+    {
+     "value": "Rs 269",
+     "label": "Face wash and beard oil have no price room: Muuchstac and Minimalist both charge Rs 269",
+     "sub": "Everything sits within Rs 100 of everything else. Muuchstac and Minimalist charge the same Rs 269. Profit comes from low selling cost, not price."
+    },
+    {
+     "value": "2–3x",
+     "label": "A premium of two to three times exists mostly where a result or a system is sold",
+     "sub": "Reginald's sunscreen, the hair-loss plans, and Gillette's top cartridges (20 to 29 times Guard per cartridge). Each is tied to a result or a system. The Ustraa Chrome trimmer at Rs 2,899 (2.5 to 4.3 times the core) is the exception with no result behind it."
+    }
+   ],
+   "size": 56,
+   "valueW": 2.6
+  },
+  {
+   "type": "stat-list",
+   "title": "The Rs 499 gift set is a *commodity*; TMC is mid-pack everywhere",
+   "rows": [
+    {
+     "value": "04",
+     "label": "The Rs 499 perfume gift set is a commodity",
+     "sub": "Three brands sell the same four-by-20 ml box at the same price."
+    },
+    {
+     "value": "05",
+     "label": "TMC is priced mid-pack in every category",
+     "sub": "It has no category where it holds a premium and none where it is the value choice. Beard oil is the one exception: TMC is cheapest at Rs 9.9 per ml against Rs 10 to 11.5 for the rest."
+    }
+   ],
+   "notes": "Source: Companion document, section 1.2"
+  },
+  {
+   "type": "stat-list",
+   "title": "Brand power is three public signals; *TMC* trails the leader on each",
+   "rows": [
+    {
+     "value": "80%",
+     "label": "Discount off list: TMC 80%; Reginald and Bombay Shaving 0%",
+     "sub": "Minimalist, Muuchstac, Fogg, Gillette sell within 10 to 19% of list (F)"
+    },
+    {
+     "value": "524",
+     "label": "Buyers who rate the hero product: TMC 524",
+     "sub": "Bella Vita 2,416 and Beardo 2,522 on Nykaa; rating counts come from different sites (I)"
+    },
+    {
+     "value": "0.05%",
+     "label": "Audience engagement: TMC 0.05%",
+     "sub": "Beardo 11.5%; Ustraa 0.02% (I)"
+    }
+   ],
+   "size": 60,
+   "valueW": 2.8,
+   "notes": "Brand power here means three public signals: selling near list, the number of buyers who rate the hero product, and how much the audience engages. TMC trails the leader on each."
+  },
+  {
+   "type": "custom",
+   "elements": [
+    {
+     "text": "Neither price nor discount predicts sales; *TMC* discounts most and sells fourth",
+     "x": 0.07,
+     "y": 0.14,
+     "w": 11.99,
+     "h": 0.6,
+     "font": "display",
+     "fontSize": 42,
+     "valign": "middle"
+    },
+    {
+     "text": "SALES, $M, LATEST FILED (F)",
+     "x": 0.4,
+     "y": 0.95,
+     "w": 5,
+     "h": 0.4,
+     "font": "display",
+     "fontSize": 24,
+     "color": "B2B2B2"
+    },
+    {
+     "text": "DISCOUNT OFF LIST",
+     "x": 6.6,
+     "y": 0.95,
+     "w": 5,
+     "h": 0.4,
+     "font": "display",
+     "fontSize": 24,
+     "color": "B2B2B2"
+    },
+    {
+     "bar": true,
+     "x": 0.3,
+     "y": 1.35,
+     "w": 6.0,
+     "h": 5.9,
+     "dir": "bar",
+     "categories": [
+      "Bombay Shaving Co. (claim)",
+      "Bella Vita",
+      "Beardo",
+      "The Man Company",
+      "Muuchstac",
+      "Reginald Men",
+      "Ustraa"
+     ],
+     "values": [
+      75,
+      54,
+      35,
+      19,
+      9.4,
+      8.7,
+      8.6
+     ],
+     "highlight": [
+      3
+     ],
+     "formatCode": "0.#",
+     "valueSize": 26,
+     "catSize": 14,
+     "gap": 40,
+     "max": 95
+    },
+    {
+     "bar": true,
+     "x": 6.5,
+     "y": 1.35,
+     "w": 6.0,
+     "h": 5.9,
+     "dir": "bar",
+     "categories": [
+      "Bombay Shaving Co. (claim)",
+      "Bella Vita",
+      "Beardo",
+      "The Man Company",
+      "Muuchstac",
+      "Reginald Men",
+      "Ustraa"
+     ],
+     "values": [
+      0,
+      50,
+      42,
+      80,
+      13,
+      0,
+      35
+     ],
+     "highlight": [
+      3
+     ],
+     "formatCode": "0\"%\"",
+     "valueSize": 26,
+     "catSize": 14,
+     "gap": 40,
+     "max": 100
+    }
+   ],
+   "notes": "Sales = latest filed figures (Chapter A, section 2.2); Bombay Shaving 75 is a claim. Hero prices: Bombay Shaving Rs 795, Bella Vita Rs 449, Beardo Rs 699, TMC Rs 180 to 740, Muuchstac Rs 249 to 269, Reginald Rs 850, Ustraa Rs 584. Ratings: Bella Vita 2,416 and Beardo 2,522 on Nykaa; TMC 524; Ustraa 874; Reginald 2,489 on its own site. Rating counts come from different sites. Instagram (I): Bombay Shaving 289,000; Bella Vita 600,000+; Beardo 571,000 (11.5% engaged); TMC 190,000 (0.05%); Muuchstac 200,000+; Ustraa 299,000 (0.02%). Hero ratings: Bombay Shaving low hundreds; Muuchstac Amazon 4.4 to 4.6 (I); Wild Stone Edge about 65,900 on Myntra (I). Rating counts come from different sites and are not strictly comparable.",
+   "source": "FILED SALES (CHAPTER A §2.2); PRICES READ 3 OCT 2026 (F); DISCOUNTS INCL. NYKAA AUGUST AUDIT (I)"
+  },
+  {
+   "type": "bar",
+   "title": "Six brands sell near list; *TMC* sells at 80% off",
+   "dir": "bar",
+   "categories": [
+    "Reginald Men · sunscreen  Rs 850 / 850",
+    "Bombay Shaving Co. · perfume  Rs 795 / 795",
+    "Minimalist · cleanser  Rs 299 / 269",
+    "Muuchstac · face wash  Rs 299 / 249-269",
+    "Fogg · deodorant  Rs 299 / 254",
+    "Gillette · Mach3  Rs 474 / 384",
+    "Beardo · Godfather  Rs 1,200 / 699",
+    "Bella Vita · CEO Man  Rs 899 / 449",
+    "Wild Stone · CODE  Rs 1,299 / 649",
+    "The Man Company · Black  Rs 2,499 or 899 / 180-740"
+   ],
+   "values": [
+    0,
+    0,
+    10,
+    13,
+    15,
+    19,
+    42,
+    50,
+    50,
+    80
+   ],
+   "highlight": [
+    9
+   ],
+   "formatCode": "0\"%\"",
+   "valueSize": 26,
+   "catSize": 13,
+   "gap": 35,
+   "max": 100,
+   "notes": "List / selling, hero product, 3 October 2026 (F); Nykaa August audit (I). Readings: Reginald full price at twice the category; Bombay Shaving 0% on perfume, 40 to 45% on trimmers; Minimalist, Muuchstac (10 to 17%), Fogg, Gillette near list; Beardo and Wild Stone a standing discount; Bella Vita holds a fixed 50%: the low price is the promise — stability, not depth, is the signal; TMC two list prices, three selling prices. Six brands sell near list price. Three run a standing discount of 42 to 50%. TMC stands alone at 80%.",
+   "source": "BRAND SITES, NYKAA MAN, BIGBASKET, READ 3 OCTOBER 2026 (F); NYKAA AUGUST AUDIT (I). MUUCHSTAC SHOWN AT THE 10–17% MIDPOINT",
+   "labW": 5.6
+  },
+  {
+   "type": "versus",
+   "title": "Beardo's engagement is more than 200 times *TMC's*: 11.5% vs 0.05%",
+   "left": {
+    "label": "BEARDO",
+    "value": "11.5%",
+    "sub": "of 571,000 followers",
+    "n": 11.5
+   },
+   "right": {
+    "label": "THE MAN COMPANY",
+    "value": "0.05%",
+    "sub": "of 190,000 followers",
+    "n": 0.05
+   },
+   "note": "Engagement is a rate, so audience size drops out: Beardo's is more than 200 times TMC's. Ustraa: 299,000 followers, 0.02% (I).",
+   "areaTrue": true,
+   "source": "INSTAGRAM, AUGUST AUDIT (I)",
+   "notes": "Say: both brands have six-figure audiences; what differs is whether the audience reacts. 11.5 ÷ 0.05 = 230. Circle areas are drawn true to the rates."
+  },
+  {
+   "type": "stat-list",
+   "title": "One bottle, five prices: *no price is real* to the buyer",
+   "size": 54,
+   "valueW": 2.8,
+   "labelSize": 24,
+   "rows": [
+    {
+     "value": "Rs 2,499",
+     "label": "List price on TMC's own site ($29.4)"
+    },
+    {
+     "value": "Rs 899",
+     "label": "List price on BigBasket ($10.6)"
+    },
+    {
+     "value": "Rs 499",
+     "label": "Selling price on TMC's own site ($5.9)"
+    },
+    {
+     "value": "Rs 180",
+     "label": "Selling price on BigBasket ($2.1)"
+    },
+    {
+     "value": "Rs 740",
+     "label": "Selling price on Nykaa in August, approximate ($8.7) (I)"
+    }
+   ],
+   "notes": "themancompany.com, BigBasket, read 3 October 2026 (F); Nykaa August audit (I). Needs a manual check on the live pages.",
+   "source": "THEMANCOMPANY.COM, BIGBASKET, READ 3 OCTOBER 2026 (F); NYKAA AUGUST AUDIT (I). NEEDS ONE MANUAL CHECK ON THE LIVE PAGES"
+  },
+  {
+   "type": "statement",
+   "title": [
+    "No price",
+    "*is real*",
+    "to the buyer"
+   ],
+   "size": 128,
+   "y": 0.9,
+   "sub": "TMC'S PRICE PROBLEM IS COHERENCE, NOT LEVEL — FIX IT BEFORE ANY PRICE INCREASE",
+   "title_ok": true,
+   "notes": "Pause here. One bottle with two list prices and selling prices from Rs 180 to Rs 740 teaches the buyer that no price is real. Confirm on the live pages, then fix it before any price increase: one list price and one selling price on every channel."
+  },
+  {
+   "type": "stat-list",
+   "title": "Price does not predict sales; *deep discounts* cost margin",
+   "rows": [
+    {
+     "value": "$9–54M",
+     "label": "Price does not predict sales",
+     "sub": "Brands whose hero perfume sells at Rs 449 to 799 have company sales of $9M to $54M. The cheapest (Bella Vita) is the largest; the dearest at full price (Bombay Shaving) grows fastest (Chapter A §2)."
+    },
+    {
+     "value": "25–37%",
+     "label": "Discount depth runs opposite to margin",
+     "sub": "The three brands near list all earn 25 to 37% (Reginald 25%, Muuchstac 37%, Gillette 31%); TMC, the deepest discounter, loses money. Bella Vita is the exception: its fixed discount is the brand idea."
+    },
+    {
+     "value": "200x",
+     "label": "Brand power shows as engagement and ratings, not followers",
+     "sub": "TMC and Ustraa have audiences of similar size to rivals and almost no engagement. Beardo's engagement is about 200 times TMC's (I)."
+    }
+   ],
+   "size": 56,
+   "valueW": 2.8,
+   "notes": "Margins and the Bombay Shaving growth figure: Chapter A §2 (state the margin type and year when asked). TMC's own margin figure is not on the slide."
+  },
+  {
+   "type": "stat-list",
+   "title": "Fix price *coherence* first, then pick one of two positions",
+   "rows": [
+    {
+     "value": "2–3x",
+     "label": "A premium is paid for a specific result, never for a general identity",
+     "sub": "Sunscreen with no white cast, a hair-loss plan, a five-blade cartridge."
+    },
+    {
+     "value": "5",
+     "label": "TMC's price problem is coherence, not level",
+     "sub": "Two list prices and selling prices from Rs 180 to Rs 740 for one bottle. Confirm by a manual check, then fix before any price increase."
+    },
+    {
+     "value": "A / B",
+     "label": "Where to price: two positions only",
+     "sub": "A fixed, honest price in the core band with a checkable claim, or a two-times premium on one named result. Every persona brand already stands in the struck-through middle."
+    }
+   ],
+   "notes": "Source: Companion document, section 1.5",
+   "size": 56,
+   "valueW": 2.8
+  },
+  {
+   "type": "stat-list",
+   "title": "Two positions only; *TMC stands in the struck-through middle*",
+   "rows": [
+    {
+     "value": "A",
+     "label": "A fixed, honest price in the core band with one checkable claim"
+    },
+    {
+     "value": "B",
+     "label": "A two-times premium on one named result"
+    },
+    {
+     "value": "TMC",
+     "label": "Today: in the struck-through middle, like every persona brand"
+    }
+   ],
+   "notes": "Beardo and Bella Vita survive the middle with a sharp character and a fixed price; TMC has the mildest character and the least stable price. This is the hinge of the deck. Every hypothesis later builds position A; B needs a named result TMC does not have yet."
+  },
+  {
+   "type": "stat-list",
+   "title": "What this means for TMC's price: *fix, then choose*",
+   "rows": [
+    {
+     "value": "01",
+     "label": "Confirm the five prices on the live pages",
+     "sub": "Two list prices (Rs 2,499 / Rs 899) and selling prices from Rs 180 to Rs 740 for one bottle; needs a manual check."
+    },
+    {
+     "value": "02",
+     "label": "Fix coherence before any price increase",
+     "sub": "One bottle with five prices teaches the buyer that no price is real."
+    },
+    {
+     "value": "03",
+     "label": "Pick position A or B",
+     "sub": "A fixed, honest core-band price with one checkable claim, or a two-times premium on one named result."
+    }
+   ],
+   "notes": "Source: Companion document, sections 1.4 to 1.5."
+  },
+  {
+   "type": "chapter",
+   "section": "2 · Messages",
+   "title": [
+    "2",
+    "*Messages*"
+   ],
+   "size": 138,
+   "image": "assets/brand/tmc-page-fog.jpg",
+   "dim": 40,
+   "sub": "FIVE BRANDS SAY THE SAME THING; SEVEN SAY SOMETHING ONLY THEY SAY"
+  },
+  {
+   "type": "hero-number",
+   "value": "0",
+   "pictograms": false,
+   "label": "numbers a buyer can check on TMC's page. Fogg gives him 800 sprays; Nivea 12 hours; Axe 48 hours.",
+   "title_ok": true,
+   "source": "HOME AND PRODUCT PAGES READ OCTOBER 2026 (F)",
+   "notes": "TMC's page offers star ratings, a fragrance-safety certificate and 80% off — no number a buyer could test. The mass brands sell a number: Fogg 800 sprays, Nivea Men 12 hours, Axe 48 hours."
+  },
+  {
+   "type": "statement",
+   "title": [
+    "Three ways",
+    "to say it:",
+    "*character, proof, number*"
+   ],
+   "size": 110,
+   "y": 1.0,
+   "sub": "TMC IS IN THE CHARACTER GROUP, THE ONE WITH THE LEAST TO CHECK",
+   "notes": "Five brands sell a character (persona group), six challengers sell a proof, the mass brands sell a number. Source: Companion document, sections 2.1 to 2.2."
+  },
+  {
+   "type": "table",
+   "title": "Five brands sell a character; *TMC's* gentleman is the mildest (1 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 18,
+   "highlightRows": [
+    0
+   ],
+   "notes": "Home and product pages read October 2026 (F); quotes need a spot check. Five brands say the same thing in five costumes, and the brands that say something only they say hold the margin. Chapter A, section 8 covers campaigns; this section covers what each brand tells a buyer on its own page today.",
+   "rows": [
+    [
+     "The Man Company",
+     "“Premium Men's Grooming Essentials”; banner “SUPER SAVING OFFER !! Starting From @599 + Free Gifts”",
+     "Star ratings, fragrance-safety certificate, 80% off",
+     "The man and the gift buyer"
+    ],
+    [
+     "Beardo",
+     "“India's #1 men's grooming brand”; “Buy 2 Get 2 Free”; “Godfather Bloodline”",
+     "“Trusted by 10 lakh+ men”; “Results in 4 to 6 weeks”",
+     "The man with a patchy beard"
+    ],
+    [
+     "Bella Vita",
+     "CEO Man: “Stay bossy, always!”",
+     "4.8 stars, 1,105 reviews, 50% off",
+     "The man, the gift buyer"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Persona proof is *stars and hours*, nothing a buyer can test (2 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 18,
+   "notes": "Home and product pages read October 2026 (F); quotes need a spot check. Five brands say the same thing in five costumes, and the brands that say something only they say hold the margin.",
+   "rows": [
+    [
+     "Villain",
+     "“Smell Bold. Rule the Room.”",
+     "“6 to 8 hours of wear”",
+     "The man"
+    ],
+    [
+     "Ustraa",
+     "“Helping our Bros look their best since 2015”",
+     "Reviews, a named ingredient",
+     "The man"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Six challengers sell *a proof*; TMC opens with the discount (1 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 18,
+   "notes": "Home and product pages read October 2026 (F); quotes need a spot check.",
+   "rows": [
+    [
+     "Bombay Shaving Co.",
+     "“We've got your back BRO! And we've got your face, legs, chest and everything in between”; “Products over promises”",
+     "Rating counts; “Designed for Indian men”",
+     "Young first-time shavers"
+    ],
+    [
+     "Muuchstac",
+     "Ocean Face Wash: “Fight Acne and Pimples, Brighten Skin, Clears Dirt, Oil Control”",
+     "The benefit list is the product name",
+     "The man with a skin problem"
+    ],
+    [
+     "Minimalist",
+     "“Honest, Authentic and Affordable”; “Full disclosure of ingredients used and their concentration”",
+     "Percentage of active in the name; “90% of subjects reported oiliness reduction”",
+     "The buyer who reads labels"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Traya and Man Matters *put money behind it*: 93% saw results (2 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 18,
+   "notes": "Home and product pages read October 2026 (F); quotes need a spot check.",
+   "rows": [
+    [
+     "Reginald Men",
+     "“Selfcare Simplified”; sunscreen: “SPF 50+ PA++++”, “No White Cast”",
+     "2,489 reviews; tested on skin",
+     "The man"
+    ],
+    [
+     "Traya",
+     "“Doctor-led hair loss treatment”",
+     "“93% saw results”; five-month money-back guarantee; “12+ lakh users”",
+     "The man losing hair"
+    ],
+    [
+     "Man Matters",
+     "“Stop Hair Loss with Science Backed Products, No Side Effects”; “from INR 33/day”",
+     "“73% of men saw results in 4 to 6 months”; “100% cashback guarantee”",
+     "The man losing hair"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Mass brands sell *a number*: 800 sprays, 12 hours, 48 hours (1 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 20,
+   "notes": "Not read: the home pages of Fogg, Engage, Park Avenue, Denver, Nivea Men and Gillette; their rows use listings and press. Source: listings and press, October 2026 (F).",
+   "rows": [
+    [
+     "Fogg",
+     "“No gas”; “800 sprays”",
+     "A number the buyer can count",
+     "Every man"
+    ],
+    [
+     "Engage",
+     "Pocket perfume: “up to 250 sprays” at Rs 60",
+     "A number",
+     "Young first-time user"
+    ],
+    [
+     "Smart And Handsome",
+     "“Har Roz Handsome Code”; “Up to 8 Hrs Brighter Look”, “Up to 2x Dark Spot Reduction”",
+     "Numbers; “No.1 since 2005”; Kartik Aaryan",
+     "Mass-market man"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "title": "Same rule; *six home pages were not read*, rows use listings (2 of 2)",
+   "columns": [
+    "First message on the page",
+    "Proof offered",
+    "Speaks to"
+   ],
+   "chipW": 2.5,
+   "chipSize": 20,
+   "valueSize": 20,
+   "notes": "Not read: the home pages of Fogg, Engage, Park Avenue, Denver, Nivea Men and Gillette; their rows use listings and press. Source: listings and press, October 2026 (F).",
+   "rows": [
+    [
+     "Garnier Men",
+     "“Tackles 6 signs of acne”",
+     "A number; dermatologically tested",
+     "The man with acne"
+    ],
+    [
+     "Nivea Men",
+     "“Controls oiliness up to 12 hours”",
+     "A number",
+     "The man with oily skin"
+    ],
+    [
+     "Axe",
+     "“48-hour odour protection”",
+     "Hours",
+     "Young man"
+    ]
+   ]
+  },
+  {
+   "type": "stat-list",
+   "title": "Five persona brands share one structure; *TMC has the mildest character*",
+   "rows": [
+    {
+     "value": "01",
+     "label": "A male character as the idea: gentleman, don, boss, villain, bro",
+     "sub": "The persona group: The Man Company (gentleman), Beardo (don), Bella Vita (boss), Villain (villain), Ustraa (bro)."
+    },
+    {
+     "value": "02",
+     "label": "“Long lasting”, six to ten hours, and a fragrance-safety certificate as proof"
+    },
+    {
+     "value": "03",
+     "label": "A struck-through list price of 35 to 80% as the offer",
+     "sub": "Inside the group, the sharpest character and the lowest fixed price win (Beardo, Bella Vita). The mildest character with the deepest, least stable discount loses (TMC, Ustraa)."
+    }
+   ],
+   "notes": "Source: Companion document, section 2.2"
+  },
+  {
+   "type": "versus",
+   "title": "Sharp character and a fixed price win; *TMC* has neither",
+   "left": {
+    "label": "BEARDO · BELLA VITA",
+    "value": "WIN",
+    "sub": "$35M · $54M company sales"
+   },
+   "right": {
+    "label": "TMC · USTRAA",
+    "value": "LOSE",
+    "sub": "$19M · $8.6M company sales"
+   },
+   "source": "FILED SALES (CHAPTER A §2.2); COMPANION DOCUMENT §2.2",
+   "notes": "Inside the persona group, the sharpest character and the lowest fixed price win (Beardo $35M, Bella Vita $54M). The mildest character with the deepest, least stable discount loses (TMC $19M, Ustraa $8.6M)."
+  },
+  {
+   "type": "table",
+   "columns": [
+    "The difference",
+    "Result"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 20,
+   "colWs": [
+    5.6,
+    2.6
+   ],
+   "colX": [
+    3.9,
+    9.8
+   ],
+   "notes": "Brand pages (F); results from Chapter A, section 2.",
+   "title": "Ten brands, *seven claims* no one else makes, and they hold the margin (1 of 2)",
+   "rows": [
+    [
+     "Minimalist, The Derma Co",
+     "The percentage of the active ingredient is the product name. No character at all",
+     "$81M; sold at a $348M valuation"
+    ],
+    [
+     "Traya, Man Matters",
+     "A diagnosed plan, with the outcome guaranteed by money back",
+     "$40M and $87M; fast growth, losses"
+    ],
+    [
+     "Fogg, Engage",
+     "A value claim the buyer can count: sprays per can",
+     "Fogg about 20% of deodorant, no celebrity"
+    ],
+    [
+     "Muuchstac",
+     "The problem list is the name; nothing else is said",
+     "37% margin"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "columns": [
+    "The difference",
+    "Result"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 20,
+   "colWs": [
+    5.6,
+    2.6
+   ],
+   "colX": [
+    3.9,
+    9.8
+   ],
+   "notes": "Brand pages (F); results from Chapter A, section 2.",
+   "title": "One removed objection earns 25%; *a price ladder earns 31%* (2 of 2)",
+   "rows": [
+    [
+     "Reginald Men",
+     "One objection removed (“no white cast”) at a premium price with no discount",
+     "25% margin"
+    ],
+    [
+     "Bombay Shaving Co.",
+     "Widened the subject from the face to the whole body; speaks to the first-time shaver",
+     "Fast claimed growth"
+    ],
+    [
+     "Gillette",
+     "A price ladder is the message: a razor for every wallet",
+     "31% margin"
+    ]
+   ]
+  },
+  {
+   "type": "stat-list",
+   "title": "Persona brands name a man; winners name *a number*",
+   "rows": [
+    {
+     "value": "01",
+     "label": "Character against number",
+     "sub": "One group names a kind of man. The other names a percentage, a count or a time."
+    },
+    {
+     "value": "02",
+     "label": "Rating against guarantee",
+     "sub": "Persona brands show stars. Treatment brands put money behind the result."
+    },
+    {
+     "value": "03",
+     "label": "“Long lasting” against a countable claim",
+     "sub": "Every perfume says six to ten hours. Only Fogg and Engage give a figure a buyer can test."
+    }
+   ]
+  },
+  {
+   "type": "stat-list",
+   "title": "*TMC opens with the deal* and speaks to two buyers at once",
+   "rows": [
+    {
+     "value": "04",
+     "label": "Offer first against claim first",
+     "sub": "TMC, Beardo and Bella Vita open with the deal. Minimalist and Reginald open with the product."
+    },
+    {
+     "value": "05",
+     "label": "Who is addressed",
+     "sub": "Legacy and treatment brands speak to a man with a problem. Persona brands speak to a man with an ambition. TMC speaks to the man and the gift buyer at once."
+    },
+    {
+     "value": "06",
+     "label": "Problem brands never use a character; character brands rarely name a problem",
+     "sub": "Beardo is the one brand doing both: the don persona plus “results in 4 to 6 weeks”."
+    }
+   ],
+   "notes": "Source: Companion document, section 2.4"
+  },
+  {
+   "type": "list-3",
+   "title": "A working message carries *a checkable number*; TMC's page offers none",
+   "itemSize": 20,
+   "sections": [
+    {
+     "head": "WORKS",
+     "items": [
+      "A claim with a number the buyer can verify — it replaces trust with a test",
+      "One message per page — the buyer decides in seconds",
+      "A guarantee — it moves the risk to the seller",
+      "A character taken to the extreme and paired with a result claim — memorable and still checkable",
+      "Naming the problem in the product title — it matches what men type into search"
+     ]
+    },
+    {
+     "head": "DOES NOT WORK",
+     "items": [
+      "“Premium”, “long lasting”, “signature” — every rival says it; it cannot be checked",
+      "A premium headline above a clearance banner — the second message cancels the first",
+      "A certificate nobody understands — it reassures without proving",
+      "A mild character — describes no one in particular",
+      "Naming the range or the mood — nobody searches for it"
+     ]
+    }
+   ],
+   "notes": "Companion document, section 2.5."
+  },
+  {
+   "type": "stat-list",
+   "title": "TMC's page does *four of the five* things that do not work",
+   "size": 40,
+   "valueW": 3.2,
+   "labelSize": 22,
+   "rows": [
+    {
+     "value": "PREMIUM",
+     "label": "“Premium Men's Grooming Essentials”",
+     "sub": "Every rival says it; it cannot be checked."
+    },
+    {
+     "value": "OFFER",
+     "label": "Under a “SUPER SAVING OFFER !!” banner",
+     "sub": "The second message cancels the first."
+    },
+    {
+     "value": "CERTIFICATE",
+     "label": "A fragrance-safety certificate as proof",
+     "sub": "It reassures without proving."
+    },
+    {
+     "value": "GENTLEMAN",
+     "label": "The mildest character of five",
+     "sub": "Describes no one in particular."
+    }
+   ],
+   "notes": "The fifth rule (naming the range or the mood) is not claimed. Traced to the TMC page quotes, the persona structure and the works / does not work list.",
+   "source": "THEMANCOMPANY.COM HOME PAGE, OCTOBER 2026 (F); COMPANION DOCUMENT §2.5"
+  },
+  {
+   "type": "statement",
+   "title": [
+    "TMC's page says",
+    "*the discount* first"
+   ],
+   "size": 115,
+   "y": 1.6,
+   "sub": "THE PAGE OFFERS NO NUMBER A BUYER COULD CHECK: REBUILD IT ON ONE CHECKABLE CLAIM (H)",
+   "notes": "“Gentleman” is the mildest character in a group of five, and the page offers no number a buyer could check. Hypothesis to test: two claim versions at the same price."
+  },
+  {
+   "type": "stat-list",
+   "title": "What this means for TMC's message: *rebuild on one claim*",
+   "rows": [
+    {
+     "value": "01",
+     "label": "Opens with the discount",
+     "sub": "Banner: “SUPER SAVING OFFER !! Starting From @599 + Free Gifts”; 80% off in the proof line."
+    },
+    {
+     "value": "02",
+     "label": "The mildest character in a group of five",
+     "sub": "“Gentleman”, against don, boss, villain and bro."
+    },
+    {
+     "value": "03",
+     "label": "No number a buyer could check",
+     "sub": "Rebuild the message on one checkable claim before the creative work starts (H: test two claim versions at the same price)."
+    }
+   ],
+   "notes": "Source: home page read October 2026 (F); Companion document, section 2.5."
+  },
+  {
+   "type": "chapter",
+   "section": "3 · Packaging",
+   "title": [
+    "3",
+    "*Packaging*"
+   ],
+   "size": 138,
+   "image": "assets/brand/packaging-sketch.jpg",
+   "dim": 55,
+   "sub": "PACKS THAT WORK CHANGED FOR A COMMERCIAL REASON; EVIDENCE IS THINNER HERE"
+  },
+  {
+   "type": "versus",
+   "title": "Trying a rival costs Rs 59 to 149; *trying TMC, Rs 499 to 599*",
+   "left": {
+    "label": "RIVAL POCKET SIZE",
+    "value": "Rs 59–149",
+    "size": 88
+   },
+   "right": {
+    "label": "TMC GIFT BOX",
+    "value": "Rs 499–599",
+    "size": 88
+   },
+   "note": "TMC's Profit Engine v7 plans Rs 99 and Rs 199 minis; none is on the shelf (I)."
+  },
+  {
+   "type": "bar",
+   "title": "Rivals let a man try for Rs 59 to 149; TMC asks *Rs 499*",
+   "dir": "bar",
+   "categories": [
+    "Bombay Shaving Co. foam, 50 g",
+    "Engage pocket spray, 17 ml",
+    "Bombay Shaving Co. razor",
+    "Bella Vita, Villain pocket perfume, 20 ml",
+    "TMC: smallest perfume, a gift box (Rs 499 to 599)"
+   ],
+   "values": [
+    59,
+    60,
+    99,
+    149,
+    499
+   ],
+   "highlight": [
+    4
+   ],
+   "formatCode": "\"Rs \"0",
+   "valueSize": 40,
+   "catSize": 16,
+   "gap": 45,
+   "max": 620,
+   "notes": "Brand sites and listings, October 2026 (F); Profit Engine v7 (I). TMC's gift box is Rs 499 to 599. The Rs 99 and Rs 199 minis are in the v7 plan, not on the shelf.",
+   "source": "BRAND SITES AND LISTINGS, OCTOBER 2026 (F); PROFIT ENGINE V7 (I)"
+  },
+  {
+   "type": "table",
+   "columns": [
+    "Pack fact found",
+    "Source strength"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 20,
+   "colWs": [
+    6.3,
+    1.6
+   ],
+   "colX": [
+    3.9,
+    10.6
+   ],
+   "notes": "Most men's packs are black and look alike. The packs documented as working changed for a commercial reason: to be seen on a shelf, to be read on a phone, to hit an entry price, or to prove a value claim. Packaging of the World, Storyboard18, exchange4media, Business Standard (F). Evidence rests on trade press and listings, not on seeing the packs.",
+   "title": "Six packs changed to be *seen, read, or priced for trial* (1 of 2)",
+   "rows": [
+    [
+     "Wild Stone CODE",
+     "Deliberately white: “an all-white pack in a sea of black”",
+     "Good"
+    ],
+    [
+     "Bombay Shaving Co.",
+     "New logo on a blue background because “offline visibility requires prominence on shelves”; offline share from 10% (2020) to about 50%, in about 80,000 stores. Entry packs: 50 g foam at Rs 59, razor at Rs 99",
+     "Good"
+    ],
+    [
+     "Minimalist",
+     "Bottles made to look like pharmacy products; labels show ingredients only",
+     "Good"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "columns": [
+    "Pack fact found",
+    "Source strength"
+   ],
+   "chipW": 3.0,
+   "chipSize": 20,
+   "valueSize": 20,
+   "colWs": [
+    6.3,
+    1.6
+   ],
+   "colX": [
+    3.9,
+    10.6
+   ],
+   "notes": "Packaging of the World, Storyboard18, exchange4media, Business Standard (F). Evidence rests on trade press and listings, not on seeing the packs.",
+   "title": "Fogg and Guard let *the pack prove the claim* (2 of 2)",
+   "rows": [
+    [
+     "Fogg",
+     "Pump spray with no gas; about 800 sprays a pack. The pack is the proof of the claim",
+     "Good"
+    ],
+    [
+     "Gillette Guard",
+     "80% fewer parts than the older razor; hang hole for small shops; Rs 15",
+     "Good"
+    ],
+    [
+     "Smart And Handsome",
+     "Packs carry “Fair And Handsome is now Smart And Handsome”; about Rs 15 crore ($1.8M) spent on the change",
+     "Good"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "columns": [
+    "Pack fact found",
+    "Source strength"
+   ],
+   "chipW": 3.0,
+   "chipSize": 18,
+   "valueSize": 20,
+   "colWs": [
+    6.3,
+    1.6
+   ],
+   "colX": [
+    3.9,
+    10.6
+   ],
+   "notes": "Listings, reviews and trade press (F, medium to weak); TMC review analysis (I).",
+   "title": "Pocket packs win trial: *Engage's Rs 60 spray took 3.3% share*",
+   "rows": [
+    [
+     "Engage",
+     "17 ml pocket spray at Rs 60; the pocket range took 3.3% share within a year",
+     "Medium"
+    ],
+    [
+     "Beardo",
+     "Godfather bottle described as black and red; trial kit of ten 5 ml vials; reviews report leaking vials",
+     "Medium"
+    ],
+    [
+     "Bella Vita, Villain",
+     "20 ml pocket perfumes at Rs 149",
+     "Medium"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "columns": [
+    "Pack fact found",
+    "Source strength"
+   ],
+   "chipW": 3.0,
+   "chipSize": 18,
+   "valueSize": 20,
+   "colWs": [
+    6.3,
+    1.6
+   ],
+   "colX": [
+    3.9,
+    10.6
+   ],
+   "notes": "Listings, reviews and trade press (F, medium to weak); TMC review analysis (I).",
+   "title": "*TMC's pack*: a gift box, no redesign found since 2022",
+   "rows": [
+    [
+     "The Man Company",
+     "Black gift boxes (four 20 ml perfumes, three 50 ml perfumes at Rs 599). No redesign found since 2022. Reviews of Black report uneven performance between bottles (I)",
+     "Medium"
+    ],
+    [
+     "Ustraa",
+     "Wooden gift box; large pack sizes (200 g face wash)",
+     "Weak"
+    ],
+    [
+     "Muuchstac, Traya, Man Matters, Reginald, Denver, Park Avenue, Nivea Men, Garnier Men",
+     "Colour, redesign and complaints not found in text sources",
+     "None"
+    ]
+   ],
+   "highlightRows": [
+    0
+   ]
+  },
+  {
+   "type": "stat-list",
+   "title": "Winning packs *break the black* and prove the claim",
+   "rows": [
+    {
+     "value": "01",
+     "label": "Colour",
+     "sub": "Black and dark blue are the default for men. White (CODE), pharmacy-plain (Minimalist) and bright blue (Bombay Shaving Company) are deliberate breaks."
+    },
+    {
+     "value": "02",
+     "label": "Format as proof",
+     "sub": "A pump with no gas shows the Fogg claim. A tube with a percentage shows the Minimalist claim. A perfume bottle shows nothing about how long it lasts."
+    },
+    {
+     "value": "03",
+     "label": "Entry pack",
+     "sub": "Rivals sell pocket and trial sizes at Rs 59 to 149. TMC's small perfume formats are gift boxes at Rs 499 to 599."
+    }
+   ],
+   "notes": "The kirana-shelf redesign is Bombay Shaving Company (new logo on blue for offline visibility, about 80,000 stores). Source: Packaging South Asia, design case studies (F)."
+  },
+  {
+   "type": "stat-list",
+   "title": "TMC designs *for the gift*, not the daily pack or the thumbnail",
+   "rows": [
+    {
+     "value": "04",
+     "label": "Gift box against daily pack",
+     "sub": "TMC, Ustraa, Beardo and CODE design for the gift. The clinical brands design for the bathroom shelf and sell packs of three."
+    },
+    {
+     "value": "05",
+     "label": "Designed for which screen or shelf",
+     "sub": "One brand redesigned for the kirana shelf at two to four metres. Quick commerce needs the opposite: a pack readable at thumbnail size."
+    }
+   ],
+   "notes": "Source: Packaging South Asia, design case studies (F); Companion document, section 3.2"
+  },
+  {
+   "type": "list-3",
+   "title": "Packs that *prove the claim* work; a premium signal alone does not",
+   "itemSize": 18,
+   "sections": [
+    {
+     "head": "WORKS",
+     "items": [
+      "A pack that proves the claim — Fogg",
+      "Breaking the category colour — CODE white; Bombay Shaving blue, with offline growth",
+      "Front of pack limited to brand, product and one claim — Minimalist; same agency source",
+      "Small entry packs — up to 40% of Indian consumer goods sales come from low-unit packs (FICCI 2015); Guard; Engage pocket",
+      "Fewer parts, lower cost — Gillette Guard"
+     ]
+    },
+    {
+     "head": "DOES NOT WORK",
+     "items": [
+      "A pack that only signals “premium” — sameness of black packs across the persona group",
+      "Dark, low-contrast or gold-foil packs on quick commerce — they “lose almost all contrast” on a white page (a design agency's view)",
+      "Several claims and badges on the front — unreadable at 200 pixels",
+      "Trial only through a gift box — Rs 499 to 599 against Rs 149 for a rival's pocket size",
+      "Sample vials and pumps that leak — Beardo reviews; one bad unit produces a one-star review"
+     ]
+    }
+   ],
+   "notes": "Two cautions: the quick commerce points come from one design agency (Confetti), and no source measures the effect of packaging on sales except Bombay Shaving's offline move and Engage's pocket pack. Mintel citing FICCI 2015, Storyboard18 (F)."
+  },
+  {
+   "type": "stat-list",
+   "title": "Test five changes to TMC's packs: *fix the spray, add a mini* (1 of 2)",
+   "rows": [
+    {
+     "value": "01",
+     "label": "Fix the content and the spray first",
+     "sub": "Black's pack promises quality and the content varies from bottle to bottle."
+    },
+    {
+     "value": "02",
+     "label": "Add an entry pack under Rs 200",
+     "sub": "The same product in a smaller size, not a different format."
+    },
+    {
+     "value": "03",
+     "label": "Put one checkable claim on the front and remove the rest"
+    }
+   ],
+   "notes": "Hypothesis 01 gates the rest: a checkable claim on an uneven bottle invites the one-star review. Keep the gift box only once an entry pack exists, or trial disappears. Companion document, section 3.4 (H)."
+  },
+  {
+   "type": "stat-list",
+   "title": "Test five changes to TMC's packs: *thumbnail check, gift box apart* (2 of 2)",
+   "rows": [
+    {
+     "value": "04",
+     "label": "Check every hero pack as a thumbnail",
+     "sub": "On a white background, before approving it"
+    },
+    {
+     "value": "05",
+     "label": "Keep the gift box a separate product",
+     "sub": "For the gift buyer; do not let it define the daily pack"
+    }
+   ],
+   "notes": "Companion document, section 3.4 (H)."
+  },
+  {
+   "type": "statement",
+   "title": [
+    "Real price.",
+    "*One checkable claim.*",
+    "A pack that proves it."
+   ],
+   "size": 96,
+   "y": 1.2,
+   "sub": "TMC DOES NONE OF THE THREE YET",
+   "w": 11.5,
+   "notes": "Source: 107 prices read 3 October 2026; brand pages; trade press (F).",
+   "title_ok": true
+  },
+  {
+   "type": "stat-list",
+   "title": "Three decisions for TMC",
+   "title_ok": true,
+   "size": 48,
+   "valueW": 2.8,
+   "rows": [
+    {
+     "value": "PRICE",
+     "label": "One price for Black on every channel",
+     "sub": "Confirm the five prices on the live pages; fix one list and one selling price before any increase."
+    },
+    {
+     "value": "CLAIM",
+     "label": "Test two claim versions at the same price (H)",
+     "sub": "Rebuild the page on one checkable claim before the creative work starts."
+    },
+    {
+     "value": "PACK",
+     "label": "Put an entry pack under Rs 200 on the shelf (H)",
+     "sub": "The Rs 99 and Rs 199 minis are in TMC's v7 plan, not on the shelf (I)."
+    }
+   ],
+   "notes": "Order: fix Black's content and spray first (pack hypothesis 01). All three build position A; B needs a named result TMC does not have yet. Size of prize: add Black's revenue and channel margin from Chapter A §2 before the meeting."
+  },
+  {
+   "type": "stat-list",
+   "title": "How the evidence was collected",
+   "title_ok": true,
+   "size": 48,
+   "valueW": 2.8,
+   "labelSize": 22,
+   "rows": [
+    {
+     "value": "107",
+     "label": "Prices read on 3 October 2026",
+     "sub": "Brand sites, Nykaa Man and BigBasket; Amazon not read (F)."
+    },
+    {
+     "value": "PAGES",
+     "label": "Home and product pages read in October 2026",
+     "sub": "Quotes need a spot check by hand before they go on a slide."
+    },
+    {
+     "value": "PACKS",
+     "label": "Trade press and listings, not the packs themselves",
+     "sub": "The thinnest evidence in this companion."
+    },
+    {
+     "value": "(I)",
+     "label": "TMC books and earlier Fast Track work",
+     "sub": "Nykaa August audit, Instagram counts, the TMC review analysis. (F) published, (E) estimate, (H) hypothesis to test."
+    }
+   ],
+   "notes": "Currency: US dollars at Rs 85 per dollar; shelf prices stay in rupees with the dollar value beside them."
+  }
+ ]
+}

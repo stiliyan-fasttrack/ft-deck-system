@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1920, height=1080" />
+    <title>Market growth 2026 → 2030</title>
+    <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.2/dist/gsap.min.js"></script>
+    <style>
+      @font-face { font-family: "Plaak";   src: url("assets/fonts/Plaak.otf")   format("opentype"); font-weight: 400; font-style: normal; ascent-override: 70%; descent-override: 15%; } /* caps-only face: glyph-tight content box (cap 700 / desc 150 per 1000) */
+      @font-face { font-family: "Riforma"; src: url("assets/fonts/Riforma.otf") format("opentype"); font-weight: 400; font-style: normal; }
+      @font-face { font-family: "Mono";    src: url("assets/fonts/Mono.otf")    format("opentype"); font-weight: 400; font-style: normal; }
+
+      html, body { margin: 0; padding: 0; background: #000; }
+      #root { position: relative; width: 100%; height: 100%; overflow: hidden; background: #000; color: #fff; }
+      .clip { position: absolute; inset: 0; }
+
+      /* chrome */
+      .rule-h { position: absolute; left: 0; top: 108px; width: 100%; height: 1px; background: rgba(255, 255, 255, 0.4); }
+      .rule-v { position: absolute; top: 0; left: 1813px; width: 1px; height: 100%; background: rgba(255, 255, 255, 0.4); }
+
+      /* text primitive: line-height 1 box, caps centred by metrics */
+      .t { position: absolute; left: 0; right: 0; width: fit-content; margin: 0 auto; text-align: center; line-height: 1; white-space: nowrap; color: #fff; }
+      .mono  { font-family: "Mono", monospace; }
+      .plaak { font-family: "Plaak", sans-serif; font-variant-numeric: tabular-nums; }
+
+      /* left: 2026 */
+      #left { position: absolute; left: 170px; top: 380px; width: 520px; height: 520px; border-radius: 50%; background: #b2b2b2; }
+      #y26 { top: 127px; font-size: 46px; }                 /* caps centre y = 530 (110 above centre) */
+      #n07 { top: 187.75px; font-size: 170px; }             /* caps centre y = 640 (box top + 0.425em) */
+
+      /* arrows */
+      #arrows { position: absolute; left: 0; top: 0; width: 1920px; height: 1080px; overflow: visible; }
+      #arrows path { fill: none; stroke: #fff; stroke-width: 4; stroke-linecap: butt; stroke-linejoin: miter; }
+      #arrows .shaft { stroke-dasharray: 432; }
+      #arrows .head  { stroke-dasharray: 58; }
+
+      /* right: 2030 */
+      #right { position: absolute; left: 1130px; top: 270px; width: 740px; height: 740px; box-sizing: border-box; border-radius: 50%; border: 2px solid #fff; background: #000; }
+      #y30 { top: 146px; font-size: 64px; }                 /* caps centre y = 450 (190 above centre) */
+      #n12 { top: 260.5px; font-size: 300px; color: #fef37f; } /* caps centre y = 660 (slightly below centre) */
+
+      /* unit caption */
+      #unit { position: absolute; left: 40px; top: 1000px; margin: 0; font-family: "Riforma", sans-serif; font-size: 28px; line-height: 1; white-space: nowrap; color: #fff; }
+    </style>
+  </head>
+  <body>
+    <div id="root" data-composition-id="market-growth" data-start="0" data-width="1920" data-height="1080" data-duration="6">
+      <section id="scene" class="clip" data-start="0" data-duration="6">
+        <div class="rule-h"></div>
+        <div class="rule-v"></div>
+
+        <div id="left">
+          <p id="y26" class="t mono">2026</p>
+          <p id="n07" class="t plaak">0,7$ B</p>
+        </div>
+
+        <div id="right">
+          <p id="y30" class="t mono">2030</p>
+          <p id="n12" class="t plaak">0,7$ B</p>
+        </div>
+
+        <svg id="arrows" viewBox="0 0 1920 1080" width="1920" height="1080" aria-hidden="true">
+          <path class="shaft" d="M740 520H1170" /><path class="head" d="M1150.2 500.2 1170 520 1150.2 539.8" />
+          <path class="shaft" d="M740 580H1170" /><path class="head" d="M1150.2 560.2 1170 580 1150.2 599.8" />
+          <path class="shaft" d="M740 640H1170" /><path class="head" d="M1150.2 620.2 1170 640 1150.2 659.8" />
+          <path class="shaft" d="M740 700H1170" /><path class="head" d="M1150.2 680.2 1170 700 1150.2 719.8" />
+          <path class="shaft" d="M740 760H1170" /><path class="head" d="M1150.2 740.2 1170 760 1150.2 779.8" />
+        </svg>
+
+        <p id="unit">MILLION USD</p>
+      </section>
+    </div>
+
+    <script>
+      const tl = gsap.timeline({ paused: true });
+
+      // 0.0–0.6 s: 2026 circle fades + scales in
+      tl.fromTo("#left", { opacity: 0, scale: 0.9 }, { opacity: 1, scale: 1, duration: 0.6, ease: "expo.out" }, 0);
+
+      // 0.8–~2.0 s: five arrows draw left→right, 0.14 s stagger, ~0.6 s each
+      const shafts = document.querySelectorAll("#arrows .shaft");
+      const heads = document.querySelectorAll("#arrows .head");
+      shafts.forEach((shaft, i) => {
+        const s = 0.8 + 0.14 * i;
+        tl.fromTo(shaft, { strokeDashoffset: 432 }, { strokeDashoffset: 0, duration: 0.45, ease: "power2.out" }, s);
+        tl.fromTo(heads[i], { strokeDashoffset: 58 }, { strokeDashoffset: 0, duration: 0.18, ease: "power2.out" }, s + 0.42);
+      });
+
+      // 1.6–2.4 s: 2030 ring scales + fades in; year fades in
+      tl.fromTo("#right", { opacity: 0, scale: 0.85 }, { opacity: 1, scale: 1, duration: 0.8, ease: "expo.out" }, 1.6);
+      tl.fromTo("#y30", { opacity: 0 }, { opacity: 1, duration: 0.6, ease: "power2.out" }, 1.8);
+
+      // 2.0–4.0 s: count 0,7 → 1,2 (quart out); scale settles 1.04 → 1.0 at the end of the count
+      const n12 = document.getElementById("n12");
+      const fmt = (v) => v.toFixed(1).replace(".", ",") + "$ B";
+      const st = { v: 0.7 };
+      tl.to(st, { v: 1.2, duration: 2, ease: "quart.out", onUpdate: () => { n12.textContent = fmt(st.v); } }, 2.0);
+      tl.fromTo("#n12", { scale: 1.04 }, { scale: 1, duration: 0.6, ease: "power2.out" }, 3.4);
+
+      // 4.0–6.0 s: hold (root data-duration governs length)
+      window.__timelines["market-growth"] = tl;
+    </script>
+  </body>
+</html>

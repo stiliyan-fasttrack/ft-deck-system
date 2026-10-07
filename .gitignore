@@ -1,0 +1,11 @@
+node_modules/
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.DS_Store
+project/out/render/
+project/out/*-render/
+project/out/smoke-test.pptx
+project/out/*.pdf
+*.log

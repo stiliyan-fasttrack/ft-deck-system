@@ -1,0 +1,74 @@
+[
+  {
+    "file": "market-earth.png",
+    "model": "gpt_image_2",
+    "params": {
+      "aspect_ratio": "16:9",
+      "resolution": "2k",
+      "quality": "medium"
+    },
+    "prompt": "Ultra-dark cinematic photograph of Earth from orbit at night, the Indian subcontinent glowing with city lights, deep black space, high contrast, near-monochrome with subtle warm light points, no text, no watermark, 16:9.",
+    "job_id": "de484af8-ebc9-40d6-852e-b1ac4659675b",
+    "duration_or_size": "2688x1520 px PNG, 4420305 bytes",
+    "credits_cost_if_shown": 2,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_39CYgnICTIrV245itFqeZk6OLzb/hf_20261007_082605_de484af8-ebc9-40d6-852e-b1ac4659675b.png"
+  },
+  {
+    "file": "persona-mirror.png",
+    "model": "gpt_image_2",
+    "params": {
+      "aspect_ratio": "16:9",
+      "resolution": "2k",
+      "quality": "medium"
+    },
+    "prompt": "Documentary-style editorial photo, Indian man in his early thirties looking closely at his face in a bathroom mirror, a few unbranded grooming bottles on the counter, moody low-key lighting, deep black shadows, desaturated, no text, no logos, 16:9.",
+    "job_id": "ffba74cd-02d4-4d80-8a78-749030dc775a",
+    "duration_or_size": "2688x1520 px PNG, 3791280 bytes",
+    "credits_cost_if_shown": 2,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_39CYgnICTIrV245itFqeZk6OLzb/hf_20261007_082605_ffba74cd-02d4-4d80-8a78-749030dc775a.png"
+  },
+  {
+    "file": "bed-dark-ambient.wav",
+    "model": "seed_audio",
+    "params": {
+      "format": "wav (default)",
+      "sample_rate": 24000
+    },
+    "prompt": "Minimal dark ambient corporate underscore, slow soft pulse around 90 bpm, no vocals, no melody hooks, loopable, 20 seconds.",
+    "job_id": "df4b1dfe-0f6b-4d84-852d-f5fce50d761f",
+    "duration_or_size": "20.0 s, 24 kHz stereo 16-bit PCM WAV, 1920044 bytes",
+    "credits_cost_if_shown": "0.6 or 0.9 (see note)",
+    "note": "Seed Audio charged 0.6 + 0.9 = 1.5 credits across the two audio jobs; the transaction list does not attribute per job. Pre-run estimate (generate cost) said 0.1 each, so it bills on output, not prompt.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_39CYgnICTIrV245itFqeZk6OLzb/hf_20261007_082605_df4b1dfe-0f6b-4d84-852d-f5fce50d761f.wav"
+  },
+  {
+    "file": "sfx-whoosh.wav",
+    "model": "seed_audio",
+    "params": {
+      "format": "wav (default)",
+      "sample_rate": 24000
+    },
+    "prompt": "Single short soft cinematic whoosh transition, clean, about one second, no reverb tail.",
+    "job_id": "d52c9cab-2955-41cc-89e9-e28e327c4b81",
+    "duration_or_size": "2.5 s, 24 kHz stereo 16-bit PCM WAV, 240044 bytes",
+    "credits_cost_if_shown": "0.6 or 0.9 (see note)",
+    "note": "Seed Audio charged 0.6 + 0.9 = 1.5 credits across the two audio jobs; the transaction list does not attribute per job. Pre-run estimate (generate cost) said 0.1 each, so it bills on output, not prompt.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_39CYgnICTIrV245itFqeZk6OLzb/hf_20261007_082605_d52c9cab-2955-41cc-89e9-e28e327c4b81.wav"
+  },
+  {
+    "file": "vo-market.mp3",
+    "model": "text2speech_v2",
+    "params": {
+      "variant": "seed_speech",
+      "voice_id": "e2a2d2e6-9ed2-59cd-82af-feaa27f8a678",
+      "voice_name": "Grady",
+      "voice_type": "preset"
+    },
+    "prompt": "By 2030, the Indian men's grooming market reaches one point two billion dollars.",
+    "job_id": "70e88279-308a-4021-82ff-0b35ed392fb5",
+    "duration_or_size": "5.856 s, MP3 96 kbps mono 24 kHz, 70317 bytes",
+    "credits_cost_if_shown": 0.2,
+    "note": "First attempt on qwen_audio_tts (0.04 cr estimate) was rejected before job creation: 'Voice preset is not available for Qwen Audio'. No credits spent on it.",
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_39CYgnICTIrV245itFqeZk6OLzb/hf_20261007_082742_70e88279-308a-4021-82ff-0b35ed392fb5.mp3"
+  }
+]
